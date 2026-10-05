@@ -25,8 +25,8 @@ Edge list - it stores 3 value {from , to , weight }
 
 Graph Traversal - 
 BFS - Breath first search  - travel to your immediate neighbour first 
-DFS - Depth first search - go to the first unvisited node 
- there is no starting point in the graph 
+DFS - Depth first search - go to the first unvisited node DONE WITHOUT RECURRESION 
+ there is no starting point in the graph    DONE WITH RECURRSION 
 
 
 
